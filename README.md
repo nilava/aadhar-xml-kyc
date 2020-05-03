@@ -1,4 +1,6 @@
 # Aadhar-xml-kyc
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnilava%2Faadhar-xml-kyc.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnilava%2Faadhar-xml-kyc?ref=badge_shield)
+
 
 Aadhar Verifier + Server 
 
@@ -31,3 +33,6 @@ Coming Soon
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnilava%2Faadhar-xml-kyc.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnilava%2Faadhar-xml-kyc?ref=badge_large)
